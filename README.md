@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+# 🔮 SHADOWDARK AFTERLIFE ⚰️
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+_In the realm between life and death, your code shall be the bridge..._
 
-## Available Scripts
+```
+██████╗ ███████╗██╗   ██╗ ██████╗ ███╗   ██╗██████╗     ████████╗██╗  ██╗███████╗    ██╗   ██╗███████╗██╗██╗
+██╔══██╗██╔════╝╚██╗ ██╔╝██╔═══██╗████╗  ██║██╔══██╗    ╚══██╔══╝██║  ██║██╔════╝    ██║   ██║██╔════╝██║██║
+██████╔╝█████╗   ╚████╔╝ ██║   ██║██╔██╗ ██║██║  ██║       ██║   ███████║█████╗      ██║   ██║█████╗  ██║██║
+██╔══██╗██╔══╝    ╚██╔╝  ██║   ██║██║╚██╗██║██║  ██║       ██║   ██╔══██║██╔══╝      ╚██╗ ██╔╝██╔══╝  ██║██║
+██████╔╝███████╗   ██║   ╚██████╔╝██║ ╚████║██████╔╝       ██║   ██║  ██║███████╗     ╚████╔╝ ███████╗██║███████╗
+╚═════╝ ╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═══╝╚═════╝        ╚═╝   ╚═╝  ╚═╝╚══════╝      ╚═══╝  ╚══════╝╚═╝╚══════╝
+```
 
-In the project directory, you can run:
+This arcane project was conjured with [Create React App](https://github.com/facebook/create-react-app), a powerful tome of web enchantment.
 
-### `npm start`
+## 📜 Grimoire of Commands
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+_Invoke these incantations in the project directory to bend reality to your will:_
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 🔥 `npm start`
 
-### `npm test`
+_Ignites the development pyre..._
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Summons the app in development mode.\
+Open the portal [http://localhost:3000](http://localhost:3000) to view it in your scrying mirror.
 
-### `npm run build`
+The page shall reform itself when you alter the runes.\
+You may also witness warnings of malformed spells in the console.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### ⚗️ `npm test`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+_Examines your creation for weaknesses..._
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Unleashes the test spirits in interactive watch mode.\
+Consult the ancient scrolls about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for forbidden knowledge.
 
-### `npm run eject`
+### ⚔️ `npm run build`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+_Forges your creation for battle..._
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Crafts the app for the mortal realm, creating artifacts in the `build` folder.\
+It binds React in production sigils and optimizes the enchantment for maximum potency.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+The build is compressed and the filenames are sealed with cryptic hashes.\
+Your creation is ready to be unleashed upon the world!
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Consult the dark tomes about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for guidance.
 
-## Learn More
+### 💀 `npm run eject`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Warning: This ritual cannot be undone. Once you `eject`, your soul belongs to the void!**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+If the binding forces displease you, you may `eject` at any time. This severing will extract the single binding dependency from your creation.
 
-### Code Splitting
+Instead, it will duplicate all configuration scrolls and transitive dependencies (webpack, Babel, ESLint, etc) directly into your project, granting you complete dominion. All commands except `eject` shall continue to function, but they will point to your duplicated scrolls for you to alter. At this point, you walk alone in the darkness.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+You need not ever use `eject`. The curated enchantments are suitable for small and medium workings, and you should not feel compelled to use this power. However, we understand that this tool would be useless if you could not break its bonds when you are prepared for the consequences.
 
-### Analyzing the Bundle Size
+## 🧙‍♂️ Arcane Knowledge
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+You can gain deeper understanding through the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-### Making a Progressive Web App
+To master the arts of React, consult the [React documentation](https://reactjs.org/).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### 🔍 Further Mysteries
 
-### Advanced Configuration
+- [Code Splitting](https://facebook.github.io/create-react-app/docs/code-splitting) - Divide your power into manageable fragments
+- [Analyzing the Bundle Size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size) - Measure the weight of your conjurations
+- [Making a Progressive Web App](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app) - Create an artifact that endures
+- [Advanced Configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration) - Bend the rules of creation
+- [Deployment](https://facebook.github.io/create-react-app/docs/deployment) - Release your creation upon the mortal realm
+- [Troubleshooting Build Failures](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) - When the dark forces resist your will
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+_May your code cast long shadows..._
